@@ -57,7 +57,7 @@ pytorch-self-coded/
 ```bash
 git clone https://github.com/Asphane/pytorch-self-coded.git
 cd pytorch-self-coded
-
+```
 # Create virtual environment
 ```
 python -m venv venv
