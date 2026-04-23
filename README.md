@@ -1,4 +1,3 @@
-```markdown
 # PyTorch Self-Coded Projects
 
 A collection of self-coded deep learning projects using PyTorch, focusing on artificial neural networks (ANNs) for image classification and other machine learning tasks.
