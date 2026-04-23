@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+Flask
+catboost
+xgboost
+nltk
+torch
+torchvision
+torchaudio
+#-e .
